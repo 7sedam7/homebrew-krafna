@@ -6,6 +6,7 @@ class Krafna < Formula
   license "MIT"
 
   bottle do
+    root_url "https://github.com/7sedam7/krafna/releases/download/v0.1.2"
     # sha256 cellar: :any_skip_relocation, arm64_big_sur: "SHA256_HASH"
     sha256 cellar: :any_skip_relocation, x86_64_apple_darwin: "a0e9d4cb2248fd84c1be33a80aa2eccd6e80e1a64f637e3d8bb4da6ee4c8f2f1"
     sha256 cellar: :any_skip_relocation, arm64_apple_darwin: "3715fb98b9a647e17212e979a460b957a0c44b1c1ac7c08a06f6ec685c435dfd"
