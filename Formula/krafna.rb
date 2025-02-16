@@ -4,7 +4,7 @@ class Krafna < Formula
   url "https://github.com/7sedam7/krafna/archive/refs/tags/v0.3.0.tar.gz"
   sha256 "7e80555cc24ebe2f3b7e3e127143253708d4c8eb7c02961d7186f2c4e2a6275a"
   license "MIT"
-  version "0.3.0"
+  version "0.4.0"
 
   bottle do
     root_url "https://github.com/7sedam7/krafna/releases/download/v0.3.0"
