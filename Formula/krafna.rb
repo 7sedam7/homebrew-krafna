@@ -1,10 +1,10 @@
 class Krafna < Formula
   desc "CLI alternative to Obsidian Dataview plugin for querying Markdown files with SQL"
   homepage "https://github.com/7sedam7/krafna"
-  url "https://github.com/7sedam7/krafna/archive/refs/tags/v0.5.5.tar.gz"
-  sha256 "f350d4e79b1917206e85fcb85e0178d214f3057f9a5278930479990506380812"
+  url "https://github.com/7sedam7/krafna/archive/refs/tags/v0.5.6.tar.gz"
+  sha256 "cc50562b354304db8b5000c35a130666fd603b44809786b951b20ad6bdbdaf09"
   license "MIT"
-  version "0.5.5"
+  version "0.5.6"
 
   bottle do
     root_url "https://github.com/7sedam7/krafna/releases/download/v0.3.0"
